@@ -1,0 +1,20 @@
+{
+  "name": "karma-commonjs-test",
+  "version": "1.0.0",
+  "description": "Get Karma & CommonJS to work together",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Daniel Zen",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.3.1",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.37",
+    "karma-commonjs": "0.0.13",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "phantomjs": "^1.9.17"
+  }
+}
